@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://twitter.com/hoseinnikmaram" target="blank"><img src="https://img.shields.io/twitter/follow/hoseinnikmaram?logo=twitter&style=for-the-badge" alt="hoseinnikmaram" /></a> </p>
 
-- 🔭 I’m currently working on [https://profileeto.ir](https://profileeto.ir)
+- 🔭 I’m currently working on [https://profileeto.ir](https://numberhub.ir)
 
 - 🌱 I’m currently learning **Python, Ai**
 
-- 👨‍💻 All of my projects are available at [https://nicmaram.ir](https://nicmaram.ir)
+- 👨‍💻 All of my projects are available at [https://profileeto.ir/hosein](https://profileeto.ir/hosein)
 
 - 📝 I regularly write articles on [https://hoseinnikmaram.medium.com/](https://hoseinnikmaram.medium.com/)
 
-- 💬 Ask me about **Php, Bootstrap and etc**
+- 💬 Ask me about **Python , JS , PHP , Frameworks and etc**
 
-- 📫 How to reach me **hosein@nicmaram.ir**
+- 📫 How to reach me **hoseinnikmaram@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
