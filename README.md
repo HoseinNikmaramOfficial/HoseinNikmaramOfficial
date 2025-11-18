@@ -25,5 +25,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hoseinnikmaramofficial&show_icons=true&locale=en&layout=compact" alt="hoseinnikmaramofficial" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hoseinnikmaramofficial&show_icons=true&locale=en" alt="hoseinnikmaramofficial" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hoseinnikmaramofficial&show_icons=true&locale=en&v=2" alt="hoseinnikmaramofficial" /></p>
 
